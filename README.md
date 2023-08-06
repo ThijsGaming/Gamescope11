@@ -2,7 +2,7 @@
 everything does not work without admin
 THIS WILL REPLACE WINDOWS SHELL LOOK AT RELEASES FOR REMOVESTEAMSHELL.BAT AND DOWNLOAD IT NOW! BEFORE USING THE INSTALLER! TO GO BACK TO WINDOWS SHELL YOU CAN USE CTRL ALT DELETE THEN TASK MANAGER THEN RUN EXPLORER.EXE FROM TASK MANAGER AND RUN REMOVESTEAMSHELL.BAT
 if you want it back run returngamescope11.bat
-if it does not run run cmd from task manager instead then run the script from the location you put it in from cmd
+if it does not run run cmd from task manager with the admin box checked then run the script from the location you put it in from cmd
 
 
 
